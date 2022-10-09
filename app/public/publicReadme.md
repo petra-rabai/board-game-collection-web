@@ -1,0 +1,1 @@
+This folder contains all items, used for the whole application
